@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d5c12708f0fe4327984ac74f232f36b0/artifacts
+end_time: 1719744107025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5c12708f0fe4327984ac74f232f36b0
+run_name: smiling-bat-316
+run_uuid: d5c12708f0fe4327984ac74f232f36b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719744107000
+status: 4
+tags: []
+user_id: ubuntu

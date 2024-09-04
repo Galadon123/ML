@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/658919492095784704
+creation_time: 1719735342558
+experiment_id: '658919492095784704'
+last_update_time: 1719735342558
+lifecycle_stage: active
+name: mlflow_callback_ray

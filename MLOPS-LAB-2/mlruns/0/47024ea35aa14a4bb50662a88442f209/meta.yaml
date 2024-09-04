@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/47024ea35aa14a4bb50662a88442f209/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47024ea35aa14a4bb50662a88442f209
+run_name: rebellious-gull-197
+run_uuid: 47024ea35aa14a4bb50662a88442f209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719744204005
+status: 1
+tags: []
+user_id: ubuntu

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719750138530
+current_stage: None
+description: ''
+last_updated_timestamp: 1719750138530
+name: xgboost-raytrain-electricity-consumption-prediction
+run_id: d81e1583c9ad409595100c46788d93a8
+run_link: ''
+source: mlflow-artifacts:/0/d81e1583c9ad409595100c46788d93a8/artifacts/electricity-consumption-prediction
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/d81e1583c9ad409595100c46788d93a8/artifacts/electricity-consumption-prediction
+user_id: null
+version: 2

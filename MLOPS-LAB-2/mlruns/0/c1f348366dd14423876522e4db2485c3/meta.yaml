@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c1f348366dd14423876522e4db2485c3/artifacts
+end_time: 1719744119779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1f348366dd14423876522e4db2485c3
+run_name: handsome-pig-792
+run_uuid: c1f348366dd14423876522e4db2485c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719744119766
+status: 4
+tags: []
+user_id: ubuntu

@@ -1,0 +1,20 @@
+artifact_path: electricity-consumption-prediction
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.19
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.core.Booster
+    model_format: xgb
+    xgb_version: 2.0.3
+mlflow_version: 2.14.1
+model_size_bytes: 44800
+model_uuid: 62f1bea7df624ef5963e68f15edf7784
+run_id: d81e1583c9ad409595100c46788d93a8
+utc_time_created: '2024-06-30 12:22:16.829992'

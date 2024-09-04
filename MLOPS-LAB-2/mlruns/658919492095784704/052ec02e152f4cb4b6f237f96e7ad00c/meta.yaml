@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/658919492095784704/052ec02e152f4cb4b6f237f96e7ad00c/artifacts
+end_time: 1719749964251
+entry_point_name: ''
+experiment_id: '658919492095784704'
+lifecycle_stage: active
+run_id: 052ec02e152f4cb4b6f237f96e7ad00c
+run_name: fun-sheep-942
+run_uuid: 052ec02e152f4cb4b6f237f96e7ad00c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719749964223
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/658919492095784704/2bbbae4a22eb42af8be8aca7302e908e/artifacts
+end_time: 1719760993820
+entry_point_name: ''
+experiment_id: '658919492095784704'
+lifecycle_stage: active
+run_id: 2bbbae4a22eb42af8be8aca7302e908e
+run_name: caring-lark-907
+run_uuid: 2bbbae4a22eb42af8be8aca7302e908e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719760993789
+status: 3
+tags: []
+user_id: ubuntu

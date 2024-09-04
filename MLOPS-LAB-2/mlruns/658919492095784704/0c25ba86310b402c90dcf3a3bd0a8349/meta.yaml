@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/658919492095784704/0c25ba86310b402c90dcf3a3bd0a8349/artifacts
+end_time: 1719744545606
+entry_point_name: ''
+experiment_id: '658919492095784704'
+lifecycle_stage: active
+run_id: 0c25ba86310b402c90dcf3a3bd0a8349
+run_name: XGBoostTrainer_59f09_00000
+run_uuid: 0c25ba86310b402c90dcf3a3bd0a8349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719744541041
+status: 3
+tags: []
+user_id: unknown
